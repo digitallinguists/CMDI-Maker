@@ -1,4 +1,4 @@
 CMDI-Maker
 ==========
 
-A tool for linguists to easily create IMDI and CMDI metadata.
+This repository has been moved to <https://github.com/cceh/CMDI-Maker>
